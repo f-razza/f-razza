@@ -1,33 +1,31 @@
- ## Hi everyone! 👋
-I'm Federico, Software Engineer, Product Engineer & Project Manager based in Italy.
+# Federico Razza
 
-Stack I've worked with:
-<p align="left">
-  <img src="https://img.shields.io/badge/Tailwind-4dbdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-01ADD8?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+**Software engineer who builds, ships, and owns products end-to-end.**
 
-Now, I'm exploring to enhance my skill set:
-<p align="left">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-</p>
+I design and develop web applications from architecture to deployment. Currently engineering in an investment company and building my own products on the side.
 
-## ☁ ️Other tools
+I care about clean systems, fast iteration, and shipping things that work.
 
-<p align="left">
-     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-0073ec?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-F36C38?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+---
 
-## 📫 How to reach me
+### What I'm building
 
-- Contact me from [my website](https://federicorazza.dev)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/federico-razza-2b97a41b4/)
+🔧 **[TweeX](https://tweex.dev)** — AI-powered content engine for X/Twitter. Next.js, Supabase, Claude API.  
+💸 **Spenz** — Personal finance AI-powered bot with receipt OCR via Telegram. FastAPI, Fly.io, Supabase.  
+📈 **Algorithmic Trading** — Forex EAs for MT4, backtested and deployed live. MQL4, Python.
+
+---
+
+### Stack
+
+**Build:** TypeScript · React · Next.js · Node.js · Python · FastAPI  
+**Data:** PostgreSQL · Supabase · Redis  
+**Infra:** Docker · AWS · Vercel · Render · Fly.io  
+**Tools:** Git · Linux · Postman · Claude Code
+
+---
+
+### Where to find me
+
+[![Website](https://img.shields.io/badge/federicorazza.dev-000?style=flat-square&logo=safari&logoColor=white)](https://federicorazza.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-razza-2b97a41b4/)
