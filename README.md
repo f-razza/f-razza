@@ -10,7 +10,7 @@ I care about clean systems, fast iteration, and shipping things that work.
 
 ### What I'm building
 
-🤖 Jarvis — Voice-controlled desktop AI assistant. Python audio core, Electron/React UI with Three.js sphere, Claude Code CLI as brain, local STT/TTS. Controls apps and Obsidian vaults via voice.
+🤖 **Jarvis** — Voice-controlled desktop AI assistant. Python audio core, Electron/React UI with Three.js sphere, Claude Code CLI as brain, local STT/TTS. Controls apps and Obsidian vaults via voice.
 
 🔧 **[TweeX](https://tweex.dev)** — AI-powered content engine for X/Twitter. Next.js, Supabase, Claude API.
 
